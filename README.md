@@ -1,6 +1,13 @@
 # Big mart sales data visualization
 This project based on **Django** (Python) Web Application.
 
+## Keyword
+Product analysis, store 
+analysis, matplotlib, pandas,
+numpy, product sales of market, 
+store sales of market and big mart
+<br>
+<br>
 ## Abstract
 This project focuses on the visualization of sales data for a fictional retail chain, Big Mart, using the Python programming language and the Matplotlib data visualization library. The main objective of this project is to provide insights into the sales trends of the retail chain using graphical representations such as line charts, bar charts, scatter plots, and histograms. The data used in this project is a sample dataset provided by Big Mart, which contains information on sales, product attributes, and store demographics. The project first cleans and preprocesses the data to make it suitable for analysis and visualization. Then, using Matplotlib, the project creates various visualizations that can help stakeholders understand the sales trends of the retail chain. These visualizations include sales 4 by product category, sales by store size, sales by location, and sales trends over time. The project concludes by summarizing the insights gained from the visualizations and discussing the implications of these insights for the business. Overall, this project demonstrates the power of Python and Matplotlib for analyzing and visualizing complex datasets and providing valuable insights to businesses.
 <br>
