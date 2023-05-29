@@ -1,8 +1,0 @@
-.gitignore
-martSales/db.sqlite3
-martSales/manage.py
-assets
-
-__pycache__
-
-martSales/myApp/migrations
