@@ -6,20 +6,15 @@ Product analysis, store
 analysis, matplotlib, pandas,
 numpy, product sales of market, 
 store sales of market and big mart
-<br>
-<br>
+
 ## Abstract
 This project focuses on the visualization of sales data for a fictional retail chain, Big Mart, using the Python programming language and the Matplotlib data visualization library. The main objective of this project is to provide insights into the sales trends of the retail chain using graphical representations such as line charts, bar charts, scatter plots, and histograms. The data used in this project is a sample dataset provided by Big Mart, which contains information on sales, product attributes, and store demographics. The project first cleans and preprocesses the data to make it suitable for analysis and visualization. Then, using Matplotlib, the project creates various visualizations that can help stakeholders understand the sales trends of the retail chain. These visualizations include sales 4 by product category, sales by store size, sales by location, and sales trends over time. The project concludes by summarizing the insights gained from the visualizations and discussing the implications of these insights for the business. Overall, this project demonstrates the power of Python and Matplotlib for analyzing and visualizing complex datasets and providing valuable insights to businesses.
-<br>
-<br>
 
 
 ## Objective
 * The current system have poor visualization design, which could make it difficult for users to understand the data and insights presented.
 
 * To develop a visualization the row data on various features of Matplotlib and Pandas.
-<br>
-<br>
 
 ## Functional Requirement
 1. User can able to insert dataset.
@@ -29,25 +24,18 @@ This project focuses on the visualization of sales data for a fictional retail c
 3. The system should be able to analyze sales data to identify trends, patterns and insights.
 
 4. It should analyze the data and give most profitable items & most loss-making items.
-<br>
-<br>
-
 
 ## Prerequisites
 1. Install PIP
 2. Install Django
 3. Any Editor (preferably VS Code)
 4. Any Web Browser
-<br>
-<br>
 
 ## Languages and Technologies used:
 * HTML5/CSS3
 * JavaScript (for Basic Functionality)
 * Django (Python Web Framework)
 * MySQL (for Authentication)
-<br>
-<br>
 
 ## Python Libraries:
 > Matplotlib
@@ -56,13 +44,10 @@ This project focuses on the visualization of sales data for a fictional retail c
 
 > Numpy
 
-<br>
-<br>
 
 ## Block Diagram:
 ![Alt text](imgs/Picture1.jpg)
-<br>
-<br>
+
 
 ## Future Scope:
 We can extend this idea by providing following features,
@@ -73,8 +58,6 @@ We can extend this idea by providing following features,
 3. Predictive analytics: As mentioned earlier, we can extend the system's functionality by incorporating AI and ML algorithms to provide predictive analytics capabilities. This would enable users to forecast future sales trends and make data-driven decisions based on those forecasts.
 
 4. Showing not only showing the relationship between quantities and visualizing them but we can also extend this    idea up to prediction of sales using AI and ML algorithms.
-<br>
-<br>
 
 
 ## Steps to Run Project:
@@ -113,8 +96,6 @@ We can extend this idea by providing following features,
    ```
    python manage.py runserver
    ```
-<br>
-<br>
 
 ## Getting into the Project:
 1. Login Page
@@ -140,15 +121,11 @@ We can extend this idea by providing following features,
 ![Alt text](imgs/8product_result2.png)
 ![Alt text](imgs/8product_result4.png)
 ![Alt text](imgs/8product_result5.png)
-<br>
-<br>
 
 ## Need to work on:
 1. Giving Sign Up Option (New Resistration).
 
 2. Need to implement another way to generate images and show on web page, beacause in this we save graph images in local machine & then showing it.
-<br>
-<br>
 
 ## Conclusion
 Big Mart Sales Visualization 

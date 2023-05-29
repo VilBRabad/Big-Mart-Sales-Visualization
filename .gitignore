@@ -1,9 +1,8 @@
+.gitignore
 martSales/db.sqlite3
 martSales/manage.py
 assets
 
 __pycache__
-
-imgs
 
 martSales/myApp/migrations
